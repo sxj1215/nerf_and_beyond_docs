@@ -28,6 +28,9 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
 <summary>Table of Content</summary>
 
 - [NeRF and Beyond Docs](#nerf-and-beyond-docs)
+  - [How to join us](#how-to-join-us)
+  - [3DGS Progresses](#3dgs-progresses)
+  - [NeRF progresses](#nerf-progresses)
   - [New to NeRF](#new-to-nerf)
     - [Begin of NeRF, Always Start Here](#begin-of-nerf-always-start-here)
     - [NeRF Related Surveys](#nerf-related-surveys)
@@ -39,11 +42,11 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [Positional Encoding](#positional-encoding)
   - [Deformable \& Dynamic NeRF](#deformable--dynamic-nerf)
   - [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-speed-enhancements)
-  - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
+    - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
   - [NeRF-3DGS Transfer](#nerf-3dgs-transfer)
   - [NeRF Based SLAM](#nerf-based-slam)
     - [NeRF SLAM Survey](#nerf-slam-survey)
-    - [NeRF SLAM Progresses](#nerf-slam-progress)
+    - [NeRF SLAM Progress](#nerf-slam-progress)
   - [Camera Pose Estimation \& Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
   - [NeRF AIGC](#nerf-aigc)
     - [NeRF AIGC Survey](#nerf-aigc-survey)
@@ -61,12 +64,12 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + Large Scale Scenes \& Urban Scenes](#nerf--large-scale-scenes--urban-scenes)
   - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
     - [NeRF Autonomous Driving Survey](#nerf-autonomous-driving-survey)
-    - [NeRF Autonomous Driving Progresses](#nerf-autonomous-driving-progress)
+    - [NeRF Autonomous Driving Progress](#nerf-autonomous-driving-progress)
   - [NeRF + Editing](#nerf--editing)
   - [NeRF + Relighting](#nerf--relighting)
   - [NeRF + Open Surface Reconstruction and Cloth Simulation](#nerf--open-surface-reconstruction-and-cloth-simulation)
   - [NeRF + Segmentation](#nerf--segmentation)
-  - [NeRF + Multi Modal](#nerf--multi-modal)
+  - [NeRF + Multi-Modal](#nerf--multi-modal)
     - [NeRF Multi-Modal Survey](#nerf-multi-modal-survey)
     - [NeRF Multi-Modal Progresses](#nerf-multi-modal-progresses)
   - [NeRF + Semantic/Understanding](#nerf--semanticunderstanding)
@@ -76,7 +79,6 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + Medical/Biology](#nerf--medicalbiology)
   - [NeRF + Inverse Rendering](#nerf--inverse-rendering)
   - [NeRF + Texture Synthesis](#nerf--texture-synthesis)
-  - [NeRF + Transparent Object](#nerf--transparent-object)
   - [NeRF + Robotics](#nerf--robotics)
     - [NeRF Robotics Survey](#nerf-robotics-survey)
     - [NeRF Robotics Progresses](#nerf-robotics-progresses)
@@ -90,13 +92,13 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + Terrain](#nerf--terrain)
   - [NeRF + Satellite Images / Radar](#nerf--satellite-images--radar)
   - [NeRF + Copyright protection and Security](#nerf--copyright-protection-and-security)
-  - [NeRF + Motion Detection](#nerf--motion-detection)
+    - [NeRF + Motion Detection](#nerf--motion-detection)
   - [Datasets](#datasets)
   - [Neural Surface Reconstruction](#neural-surface-reconstruction)
-- [Other Important Related Work](#other-important-related-work)
-  - [Depth Estimation](#depth-estimation)
-- [Contributors](#contributors)
-- [License](#license)
+  - [Other Important Related Work](#other-important-related-work)
+    - [Depth Estimation](#depth-estimation)
+  - [Contributors](#contributors)
+  - [License](#license)
 
 ## New to NeRF
 
@@ -2335,6 +2337,11 @@ AAAI 2023, 11 May 2022 <br>
 *Zirui Wu, Tianyu Liu, Liyi Luo, Zhide Zhong, Jianteng Chen, Hongmin Xiao, Chao Hou, Haozhe Lou, Yuantao Chen, Runyi Yang, Yuxin Huang, Xiaoyu Ye, Zike Yan, Yongliang Shi, Yiyi Liao, Hao Zhao*<br>
 CICAI 2023, 27 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.15058)] [[Project](https://open-air-sun.github.io/mars/)] [[Code](https://github.com/OPEN-AIR-SUN/mars)] [[Video](https://www.youtube.com/watch?v=AdC-jglWvfU)]
+
+**SAMPLING: Scene-adaptive Hierarchical Multiplane Images Representation for Novel View Synthesis from a Single Image**<br>
+*Xiaoyu Zhou, Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang*<br>
+ICCV 2023, 12 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.06323)] [[Github](https://github.com/VDIGPKU/SAMPLING)]
 
 **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**<br>
 *Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, Junyi Ma*<br>

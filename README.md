@@ -2343,6 +2343,7 @@ CICAI 2023, 27 Jul 2023<br>
 ICCV 2023, 12 Sep 2023<br>
 [[arXiv](https://arxiv.org/abs/2309.06323)] [[Github](https://github.com/VDIGPKU/SAMPLING)]
 
+
 **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**<br>
 *Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, Junyi Ma*<br>
 arXiv preprint, 2 Oct 2023<br>
